@@ -1,0 +1,15 @@
+{
+  "name": "tcol",
+  "version": "1.0.0",
+  "description": "Node Colors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"working 😉\""
+  },
+  "keywords": [
+    "colors"
+  ],
+  "author": "posandu",
+  "license": "ISC",
+  "type": "module"
+}
