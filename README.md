@@ -13,7 +13,7 @@ pnpm install tcol
 ```
 import { c } from "tcol";
 
-console.log(c.red("Hello"));
+console.log(c.Red("Hello"));
 ```
 
 ## Available methods
