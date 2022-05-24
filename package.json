@@ -1,10 +1,10 @@
 {
   "name": "tcol",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Node Colors",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"working 😉\""
+    "test": "node test.js"
   },
   "keywords": [
     "colors"
